@@ -11,6 +11,7 @@
     <modules>
         <module>Kafka-imp-exp</module>
         <module>Kafka-consumer-opensearch</module>
+        <module>Kafka-producer-wiki-media</module>
     </modules>
 
     <properties>
